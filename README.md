@@ -1,5 +1,7 @@
 # AI-Powered Code Reviewer
 
+GitHub repository: https://github.com/AtlaMukesh/Ai--code--reviewer
+
 A RAG-based code review tool. You paste code, and it reviews it using your own
 guideline documents, which are retrieved from a ChromaDB vector store.
 The review is written by Google Gemini.
